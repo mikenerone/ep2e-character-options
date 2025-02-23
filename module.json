@@ -1,0 +1,71 @@
+{
+  "id": "ep2e-character-options",
+  "title": "Eclipse Phase 2e Character Options",
+  "version": "",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Mike Nerone",
+      "discord": "CryingCyclops",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ep2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "morphs",
+      "label": "Morphs",
+      "path": "packs/morphs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ep2e"
+    },
+    {
+      "name": "alis",
+      "label": "ALIs",
+      "path": "packs/alis",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ep2e"
+    },
+    {
+      "name": "traits",
+      "label": "Traits",
+      "path": "packs/traits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ep2e"
+    },
+    {
+      "name": "ware",
+      "label": "Ware",
+      "path": "packs/ware",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ep2e"
+    }
+  ]
+}
