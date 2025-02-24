@@ -12,6 +12,14 @@ the permissive CC BY-NC-SA license. All creative credit for it goes to them.
 If you find this module useful, please [buy me a coffee or two][mikenerone-ko-fi] to show your support! I drink plenty
 of it. And support Posthuman Studios and the other folks whose work this builds on via the links below!
 
+## Installation Info
+Because Bubz's EP2 game system isn't distributed via Foundry VTT's package library, neither is this module. Both will
+need to be initially installed from their manifest URLs:
+1. Here's the [manifest URL][bubz-ep2e-manifest] for Bubz's EP2 system. See [Foundry VTT's
+   tutorial][foundry-docs-gm-tut-1] for more details on installing a game system.
+2. And here's the [manifest URL][ep2e-co-manifest] for this Character Options module. See the "Installing via Manifest
+   URL" section of Foundry VTT's [Module Management][foundry-docs-modules] documentation if you need more.
+
 ## Technical Note
 Bubz's `ep2e` game system, for which this module is an expansion, is currently undergoing a rewrite that will greatly
 expand its capabilities in the near future. The *current* release is completely usable, but there are a few rule
@@ -87,6 +95,7 @@ License][cc-by-nc-sa].
 <!-- Link definitions -->
 [bubz-discord]: https://discord.gg/zs4jMnFqjx
 [bubz-ep2e-github]: https://github.com/Bubz43/ep2e
+[bubz-ep2e-manifest]: https://github.com/Bubz43/ep2e/releases/latest/download/system.json
 [bubz-ko-fi]: https://ko-fi.com/D1D24OIY7
 [bubz]: https://github.com/Bubz43
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
@@ -96,10 +105,13 @@ License][cc-by-nc-sa].
 [ep-list]: https://eepurl.com/RIsbn
 [ep-welcome]: https://welcometoeclipsephase.com/
 [ep]: https://eclipsephase.com/
+[ep2e-co-manifest]: https://github.com/mikenerone/ep2e-character-options/releases/latest/download/module.json
 [ep2html-github]: https://github.com/luizbgomide/EclipsePhase2e-ptbr
 [ep2html-site-en]: https://eclipsephase.github.io/en/
 [ep2html-site-pt_br]: https://eclipsephase.github.io/pt_br/
 [foundry-discord]: https://discord.gg/foundryvtt
+[foundry-docs-gm-tut-1]: https://foundryvtt.com/article/tutorial/
+[foundry-docs-modules]: https://foundryvtt.com/article/modules/
 [foundry-market]: https://foundryvtt.store/
 [foundry-patreon]: https://www.patreon.com/foundryvtt
 [foundry-reddit]: https://www.reddit.com/r/FoundryVTT/

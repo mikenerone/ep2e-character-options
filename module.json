@@ -1,15 +1,22 @@
 {
   "id": "ep2e-character-options",
   "title": "Eclipse Phase 2e Character Options",
-  "version": "",
+  "description": "Compendium Pack for content from the \"Character Options\" splatbook for Posthuman Studios' tabletop role playing game, Eclipse Phase Second Edition. For use with Bubz's EP2 game system.",
+  "version": "#{VERSION}#",
+  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "systems": [
+    "ep2e"
+  ],
   "authors": [
     {
       "name": "Mike Nerone",
       "discord": "CryingCyclops",
+      "url": "https://github.com/mikenerone",
+      "ko-fi": "mikenerone",
       "flags": {}
     }
   ],
@@ -18,10 +25,26 @@
       {
         "id": "ep2e",
         "type": "system",
-        "compatibility": {}
+        "manifest": "https://github.com/Bubz43/ep2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1.2.16",
+          "verified": "1.2.16"
+        }
       }
     ]
   },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE.txt",
+  "readme": "README.md",
+  "bugs": "https://github.com/mikenerone/ep2e-character-options/issues",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    }
+  ],
   "packs": [
     {
       "name": "morphs",
