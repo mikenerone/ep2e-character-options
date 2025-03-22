@@ -8,9 +8,6 @@
     "minimum": "12",
     "verified": "12"
   },
-  "systems": [
-    "ep2e"
-  ],
   "authors": [
     {
       "name": "Mike Nerone",
