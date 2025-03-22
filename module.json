@@ -39,6 +39,7 @@
   "license": "LICENSE.txt",
   "readme": "README.md",
   "bugs": "#{URL}#/issues",
+  "changelog": "#{URL}#/releases",
   "media": [
     {
       "type": "icon",
