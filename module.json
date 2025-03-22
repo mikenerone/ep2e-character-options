@@ -8,9 +8,6 @@
     "minimum": "12",
     "verified": "12"
   },
-  "systems": [
-    "ep2e"
-  ],
   "authors": [
     {
       "name": "Mike Nerone",
@@ -27,8 +24,8 @@
         "type": "system",
         "manifest": "https://github.com/Bubz43/ep2e/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.2.16",
-          "verified": "1.2.16"
+          "minimum": "1.2.18",
+          "verified": "1.2.18"
         }
       }
     ]
@@ -38,7 +35,8 @@
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "https://github.com/mikenerone/ep2e-character-options/issues",
+  "bugs": "#{URL}#/issues",
+  "changelog": "#{URL}#/releases",
   "media": [
     {
       "type": "icon",
