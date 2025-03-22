@@ -38,7 +38,7 @@
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "https://github.com/mikenerone/ep2e-character-options/issues",
+  "bugs": "#{URL}#/issues",
   "media": [
     {
       "type": "icon",
