@@ -24,8 +24,8 @@
         "type": "system",
         "manifest": "https://github.com/Bubz43/ep2e/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.2.16",
-          "verified": "1.2.16"
+          "minimum": "1.2.18",
+          "verified": "1.2.18"
         }
       }
     ]
